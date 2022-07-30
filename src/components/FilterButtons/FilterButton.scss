@@ -1,0 +1,60 @@
+$color :rgb(65, 75, 218);
+
+$secondaryColor:rgb(67, 180, 161);
+
+
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .btn {
+    background: none;
+    border: none;
+    padding: 0.5em 1rem;
+    // box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin: 0 1rem;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+ 
+  }
+
+  .active {
+    background: none;
+
+    padding: 0.5em 1rem;
+    margin: 0 1rem;
+    text-transform: uppercase;
+    position: relative;
+    
+    &::after {
+      content: "";
+      width: 100%;
+      height: 3px;
+      position: absolute;
+      border-radius: 30px;
+      bottom: 0;
+      left: 0;
+      background-color: $color;
+     
+    }
+
+   
+  }
+}
+@media (max-width:772px) {
+
+.filter-buttons {
+  background-color: rgb(67, 180, 161);
+ width: 80vw;
+ height: 40px;
+ border-radius: 50px;
+ transition: all 400ms ease-in-out;
+  .btn {
+    padding: 0.2rem 0.5rem;
+    margin: 0 0.5rem;
+  }
+}
+
+}

@@ -1,0 +1,135 @@
+$color: rgb(65, 75, 218);
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 200px;
+  margin: 3rem 0;
+  position: relative;
+  transition: all 400ms ease-in-out;
+
+  .input-wrapper {
+    display: flex;
+  }
+
+  .bar {
+    position: relative;
+    input {
+      outline: none;
+      border: none;
+      display: grid;
+      place-items: center;
+      height: 35px;
+      width: 200px;
+      padding: 0 3rem;
+      border-radius: 50px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      transition: all 400ms ease-in-out;
+    }
+    .icon {
+      position: absolute;
+      bottom: 7%;
+      right: 1%;
+      background-color: $color;
+      padding: 5px;
+      border-radius: 100px;
+      font-size: 20px;
+      display: grid;
+      place-items: center;
+      transition: all 400ms ease-in-out;
+    }
+  }
+
+  .city-input,
+  .price-input {
+    width: 150px;
+
+    margin: 1rem 2rem;
+    position: relative;
+    bottom: 10px;
+    display: grid;
+    place-items: center;
+    transition: all 400ms ease-in-out;
+    .MuiFormControl-root {
+      width: 100%;
+    }
+  }
+
+}
+.search-btn {
+  outline: none;
+  background: none;
+  border: none;
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+  position: absolute;
+  right: 2%;
+  top: 22%;
+  // padding:  0 0.5rem ;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+@media (max-width: 1010px) {
+  .search-box {
+    .city-input,
+    .price-input {
+      width: 80px;
+    }
+  }
+}
+@media (max-width: 772px) {
+  .search-box {
+    display: grid;
+    place-items: center;
+   height: 0%;
+    box-shadow: none;
+    transition: all 400ms ease-in-out;
+
+    .city-input,
+    .price-input {
+      width: 50px;
+      position: relative;
+
+      .MuiFormControl-root {
+        width: 100%;
+       
+        
+      }
+      
+        
+    }
+
+    .bar {
+      display: grid;
+    place-items: center;
+      input {
+        width: 81%;
+        transition: all 400ms ease-in-out;
+
+      }
+
+      .icon {
+        position: absolute;
+        bottom: 7%;
+        right: -8%;
+        transition: all 400ms ease-in-out;
+        
+      }
+    }
+
+    .input-wrapper {
+      display: flex !important;
+      
+      
+      
+      
+    }
+  }
+}

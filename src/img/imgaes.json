@@ -1,0 +1,364 @@
+
+
+[
+  
+    {
+        "id":1,
+        "img":"https://a0.muscache.com/im/pictures/201a00f9-0c23-4e75-9115-4ce1ceed05f6.jpg?im_w=720",
+        "title":"Hillcrest Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"14,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"delhi",
+        "price":"under20k"
+        
+
+
+    },
+    {
+        "id":2,
+        "img":"https://a0.muscache.com/im/pictures/miso/Hosting-9211435/original/c2d9cc72-535e-4e11-8725-8848f584a443.jpeg?im_w=720",
+        "title":"mirisa hills ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"25,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"mumbai",
+        "price":"under30k"
+
+
+    },
+    {
+        "id":3,
+        "img":"https://a0.muscache.com/im/pictures/monet/Luxury-54351340/original/78e9a3d8-6f36-4b1f-8f67-db331a4c2ca2?im_w=720",
+        "title":"Kosimai Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"32,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"sell",
+        "location":"banglore",
+        "price":"under40k"
+
+
+    },
+    {
+        "id":4,
+        "img":"https://a0.muscache.com/im/pictures/3325f8f2-bf5c-48cc-948a-5a096ce5c4a8.jpg?im_w=720",
+        "title":"Kamala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"44,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"banglore",
+        "price":"under50k"
+
+
+    },
+    {
+        "id":5,
+        "img":"https://a0.muscache.com/im/pictures/2a1724ca-c902-4c82-b64a-215c2fd1e414.jpg?im_w=720",
+        "title":"Hillcrest Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"19,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"banglore",
+        "price":"under20k"
+
+
+    },
+    {
+        "id":6,
+        "img":"https://a0.muscache.com/im/pictures/fb5e5bf9-8478-4824-81e7-b267d396a793.jpg?im_w=720",
+        "title":"Kosimai Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"28,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"banglore",
+        "price":"under30k"
+
+
+    },
+    {
+        "id":7,
+        "img":"https://a0.muscache.com/im/pictures/272b2163-31ad-49a0-aaef-414cc74c2522.jpg?im_w=720",
+        "title":"komala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"31,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"delhi",
+        "price":"under40k"
+
+
+    },
+    {
+        "id":8,
+        "img":"https://a0.muscache.com/im/pictures/miso/Hosting-45666234/original/433d2938-90c1-4def-97e2-e313f869aa3a.jpeg?im_w=720",
+        "title":"new city Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"49,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"sell",
+        "location":"delhi",
+        "price":"under50k"
+
+
+    },
+    {
+        "id":9,
+        "img":"https://a0.muscache.com/im/pictures/miso/Hosting-45666234/original/433d2938-90c1-4def-97e2-e313f869aa3a.jpeg?im_w=720",
+        "title":"Kosimai Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"19,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"delhi",
+        "price":"under20k"
+
+
+    },
+    {
+        "id":10,
+        "img":"https://a0.muscache.com/im/pictures/375925f1-7186-4f96-8abb-610f737b14a5.jpg?im_w=720",
+        "title":"komala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"26,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"mumbai",
+        "price":"under30k"
+
+
+    },
+    {
+        "id":11,
+        "img":"https://a0.muscache.com/im/pictures/04adf854-6859-40fe-b99e-ef57718fc76f.jpg?im_w=720",
+        "title":"mirisa hills ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"37,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"delhi",
+        "price":"under40k"
+
+
+    },
+    {
+        "id":12,
+        "img":"https://a0.muscache.com/im/pictures/5c48b4a2-7cc1-43f6-9e26-da0e05b25362.jpg?im_w=720",
+        "title":"new city Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"41,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"banglore",
+        "price":"under50k"
+
+
+    },
+    {
+        "id":13,
+        "img":"https://a0.muscache.com/im/pictures/758d1ee4-c9ce-4c05-9982-ea649947f508.jpg?im_w=720",
+        "title":"Kamala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"17,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"sell",
+        "location":"hyderabad",
+        "price":"under20k"
+
+
+    },
+    {
+        "id":14,
+        "img":"https://a0.muscache.com/im/pictures/e5e62669-83c4-40fd-879f-aa0774f36ad9.jpg?im_w=720",
+        "title":"komala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"27,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"sell",
+        "location":"banglore",
+        "price":"under30k"
+
+
+    },
+    {
+        "id":15,
+        "img":"https://a0.muscache.com/im/pictures/9c5c9374-18cd-4826-b0d0-73666a2de99d.jpg?im_w=720",
+        "title":"Kamala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"34,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"delhi",
+        "price":"under40k"
+
+
+    },
+    {
+        "id":16,
+        "img":"https://a0.muscache.com/im/pictures/88851292-5543-48aa-ab3c-9cae437a9112.jpg?im_w=720",
+        "title":"mirisa hills ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"42,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"hyderabad",
+        "price":"under50k"
+
+
+    },
+    {
+        "id":17,
+        "img":"https://a0.muscache.com/im/pictures/ca8e2359-6c83-4914-9255-d89cd5306cd8.jpg?im_w=720",
+        "title":"new city Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"15,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"mumbai",
+        "price":"under20k"
+
+    },
+    {
+        "id":18,
+        "img":"https://a0.muscache.com/im/pictures/766997cd-f3fe-4337-a1a0-253d9c74ba49.jpg?im_w=720",
+        "title":"new city Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"26,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"sell",
+        "location":"hyderabad",
+        "price":"under30k"
+
+
+    },
+    {
+        "id":19,
+        "img":"https://a0.muscache.com/im/pictures/9b1bb8f5-5f8b-4bec-8e98-31fbe04c21ac.jpg?im_w=720",
+        "title":"mirisa hills ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"39,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"buy",
+        "location":"banglore",
+        "price":"under40k"
+
+
+    },
+    {
+        "id":20,
+        "img":"https://a0.muscache.com/im/pictures/miso/Hosting-53749345/original/a06433f9-1d8d-415f-ba10-7ec21ae775ec.jpeg?im_w=720",
+        "title":"komala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"41,000/",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"sell",
+        "location":"hyderabad",
+        "price":"under50k"
+
+
+    },
+    {
+        "id":21,
+        "img":"https://a0.muscache.com/im/pictures/5523d0a7-3d73-47f0-858a-af6ca87790f2.jpg?im_w=720",
+        "title":"Kamala Villa ",
+        "address":"Hillcrest Villa Hi-tech city hyderabad Telangana INDIA",
+        "builtup":"1,650 sqft",
+        "rent":"18,000",
+        "bathroom":"2 Bathroom",
+        "bedroom":"3 Beds",
+        "furnished":"furnished",
+        "time":"3hr ago",
+        "category":"rent",
+        "location":"mumbai",
+        "price":"under20k"
+
+
+    }
+
+
+]
